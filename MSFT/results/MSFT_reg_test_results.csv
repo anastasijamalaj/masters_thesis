@@ -1,0 +1,24 @@
+,strategy,test_len,model,explained variance,MAE,MedianAE,MSE,R2,RMSE
+0,target_return_1d_all_returns,260,Lasso,-0.0221,0.0127,0.0101,0.0167,-0.0289,0.0167
+1,target_return_1d_all_returns,260,LR,-0.0311,0.0128,0.01,0.0168,-0.0379,0.0168
+2,target_return_1d_all_returns,260,RandomForest,0.0014,0.0125,0.01,0.0165,-0.0043,0.0165
+3,target_return_1d_all_returns,260,Ridge,-0.0306,0.0128,0.01,0.0168,-0.0375,0.0168
+4,target_return_1d_all_returns,260,SVR,0.0,0.0128,0.0107,0.0169,-0.0448,0.0169
+5,target_return_1d_all_returns,260,XGB,-0.0464,0.0129,0.0106,0.0169,-0.0531,0.0169
+0,target_return_1d_all_attributes,260,Lasso,0.0,0.0125,0.0099,0.0165,-0.0032,0.0165
+1,target_return_1d_all_attributes,260,LR,-0.0463,0.0129,0.0102,0.017,-0.0591,0.017
+2,target_return_1d_all_attributes,260,RandomForest,-0.003,0.013,0.0106,0.0169,-0.0561,0.0169
+3,target_return_1d_all_attributes,260,Ridge,-0.0314,0.0128,0.0105,0.0169,-0.0526,0.0169
+4,target_return_1d_all_attributes,260,SVR,-0.0,0.0251,0.0241,0.0287,-2.0247,0.0287
+5,target_return_1d_all_attributes,260,XGB,-0.1216,0.0147,0.0122,0.0188,-0.3054,0.0188
+0,target_close_all_attributes,260,Lasso,0.9828,5.5019,4.8033,6.8044,0.9738,6.8044
+1,target_close_all_attributes,260,LR,0.9868,3.9267,3.4015,5.089,0.9853,5.089
+2,target_close_all_attributes,260,RandomForest,0.9207,7.773,4.2048,13.2416,0.9008,13.2416
+3,target_close_all_attributes,260,Ridge,0.9868,3.9265,3.4111,5.0889,0.9853,5.0889
+4,target_close_all_attributes,260,SVR,0.0001,211.1276,225.0367,215.2725,-25.2194,215.2725
+5,target_close_all_attributes,260,XGB,0.9233,9.1883,6.6501,14.2101,0.8858,14.2101
+0,target_close_all_lags,260,Lasso,0.987,3.7176,3.1177,4.8348,0.9868,4.8348
+1,target_close_all_lags,260,LR,0.9869,3.7444,3.199,4.8591,0.9866,4.8591
+2,target_close_all_lags,260,RandomForest,0.9214,7.3435,4.2137,12.8342,0.9068,12.8342
+3,target_close_all_lags,260,Ridge,0.9869,3.7444,3.1991,4.8592,0.9866,4.8592
+4,target_close_all_lags,260,XGB,0.9006,9.0007,5.4211,14.9409,0.8737,14.9409

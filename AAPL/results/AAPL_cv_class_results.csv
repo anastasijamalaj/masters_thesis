@@ -1,0 +1,151 @@
+,strategy,test_len,model,metric,mean,median,std
+0,target_class_lags_all_attributes,260,LogReg,accuracy,0.5179487179487179,0.5076923076923077,0.2984234269437462
+1,target_class_lags_all_attributes,260,RandomForest,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+2,target_class_lags_all_attributes,260,SVC,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+3,target_class_lags_all_attributes,260,KNN,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+4,target_class_lags_all_attributes,260,GNB,accuracy,0.491025641025641,0.3346153846153846,0.28314473360975684
+5,target_class_lags_all_attributes,260,LogReg,f1,0.20695176985700048,0.24221453287197234,0.15657757669687478
+6,target_class_lags_all_attributes,260,RandomForest,f1,0.0,0.0,0.0
+7,target_class_lags_all_attributes,260,SVC,f1,0.0,0.0,0.0
+8,target_class_lags_all_attributes,260,KNN,f1,0.0,0.0,0.0
+9,target_class_lags_all_attributes,260,GNB,f1,0.24557834661242017,0.2352941176470588,0.20484152189078428
+10,target_class_lags_all_attributes,260,LogReg,precision,0.15535700446186382,0.1383399209486166,0.13433565693430233
+11,target_class_lags_all_attributes,260,RandomForest,precision,0.0,0.0,0.0
+12,target_class_lags_all_attributes,260,SVC,precision,0.0,0.0,0.0
+13,target_class_lags_all_attributes,260,KNN,precision,0.0,0.0,0.0
+14,target_class_lags_all_attributes,260,GNB,precision,0.15720056199508253,0.136986301369863,0.13735192306575997
+15,target_class_lags_all_attributes,260,LogReg,recall,0.4734993614303959,0.4482758620689655,0.3973085962957141
+16,target_class_lags_all_attributes,260,RandomForest,recall,0.0,0.0,0.0
+17,target_class_lags_all_attributes,260,SVC,recall,0.0,0.0,0.0
+18,target_class_lags_all_attributes,260,KNN,recall,0.0,0.0,0.0
+19,target_class_lags_all_attributes,260,GNB,recall,0.6111111111111112,0.8333333333333334,0.43744488188954506
+20,target_class_lags_all_attributes,260,LogReg,roc_auc,0.57614069549894,0.5539434523809523,0.07301888028128552
+21,target_class_lags_all_attributes,260,RandomForest,roc_auc,0.554660677715728,0.5422867063492063,0.022086215552713777
+22,target_class_lags_all_attributes,260,SVC,roc_auc,0.5618262341061074,0.5612599206349206,0.05752170597578089
+23,target_class_lags_all_attributes,260,KNN,roc_auc,0.5322973000953805,0.5036210218590127,0.04788480324043007
+24,target_class_lags_all_attributes,260,GNB,roc_auc,0.4946563852813853,0.4947916666666667,0.004419306952886303
+0,target_class_all_returns,260,LogReg,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+1,target_class_all_returns,260,RandomForest,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+2,target_class_all_returns,260,SVC,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+3,target_class_all_returns,260,KNN,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+4,target_class_all_returns,260,GNB,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+5,target_class_all_returns,260,LogReg,f1,0.0,0.0,0.0
+6,target_class_all_returns,260,RandomForest,f1,0.0,0.0,0.0
+7,target_class_all_returns,260,SVC,f1,0.0,0.0,0.0
+8,target_class_all_returns,260,KNN,f1,0.0,0.0,0.0
+9,target_class_all_returns,260,GNB,f1,0.11221299026177074,0.04395604395604396,0.128867068339365
+10,target_class_all_returns,260,LogReg,precision,0.0,0.0,0.0
+11,target_class_all_returns,260,RandomForest,precision,0.0,0.0,0.0
+12,target_class_all_returns,260,SVC,precision,0.0,0.0,0.0
+13,target_class_all_returns,260,KNN,precision,0.0,0.0,0.0
+14,target_class_all_returns,260,GNB,precision,0.3333333333333333,0.5,0.23570226039551584
+15,target_class_all_returns,260,LogReg,recall,0.0,0.0,0.0
+16,target_class_all_returns,260,RandomForest,recall,0.0,0.0,0.0
+17,target_class_all_returns,260,SVC,recall,0.0,0.0,0.0
+18,target_class_all_returns,260,KNN,recall,0.0,0.0,0.0
+19,target_class_all_returns,260,GNB,recall,0.07662835249042145,0.022988505747126436,0.09259039060225725
+20,target_class_all_returns,260,LogReg,roc_auc,0.5363055339479249,0.5260416666666667,0.08003055557978463
+21,target_class_all_returns,260,RandomForest,roc_auc,0.5203114020914749,0.5245535714285715,0.03445841238638488
+22,target_class_all_returns,260,SVC,roc_auc,0.4823424049010181,0.4701140873015873,0.07023081367163385
+23,target_class_all_returns,260,KNN,roc_auc,0.49534702052703344,0.49776785714285715,0.018942475408025853
+24,target_class_all_returns,260,GNB,roc_auc,0.5619778170885655,0.5007440476190477,0.09744230295130894
+0,target_class_all_returns,260,LogReg,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+1,target_class_all_returns,260,RandomForest,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+2,target_class_all_returns,260,SVC,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+3,target_class_all_returns,260,KNN,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+4,target_class_all_returns,260,GNB,accuracy,0.805128205128205,0.8615384615384616,0.0994230562581605
+5,target_class_all_returns,260,LogReg,f1,0.0,0.0,0.0
+6,target_class_all_returns,260,RandomForest,f1,0.0,0.0,0.0
+7,target_class_all_returns,260,SVC,f1,0.0,0.0,0.0
+8,target_class_all_returns,260,KNN,f1,0.0,0.0,0.0
+9,target_class_all_returns,260,GNB,f1,0.11221299026177074,0.04395604395604396,0.128867068339365
+10,target_class_all_returns,260,LogReg,precision,0.0,0.0,0.0
+11,target_class_all_returns,260,RandomForest,precision,0.0,0.0,0.0
+12,target_class_all_returns,260,SVC,precision,0.0,0.0,0.0
+13,target_class_all_returns,260,KNN,precision,0.0,0.0,0.0
+14,target_class_all_returns,260,GNB,precision,0.3333333333333333,0.5,0.23570226039551584
+15,target_class_all_returns,260,LogReg,recall,0.0,0.0,0.0
+16,target_class_all_returns,260,RandomForest,recall,0.0,0.0,0.0
+17,target_class_all_returns,260,SVC,recall,0.0,0.0,0.0
+18,target_class_all_returns,260,KNN,recall,0.0,0.0,0.0
+19,target_class_all_returns,260,GNB,recall,0.07662835249042145,0.022988505747126436,0.09259039060225725
+20,target_class_all_returns,260,LogReg,roc_auc,0.5363055339479249,0.5260416666666667,0.08003055557978463
+21,target_class_all_returns,260,RandomForest,roc_auc,0.526436547841116,0.5248635912698413,0.03062912714665538
+22,target_class_all_returns,260,SVC,roc_auc,0.4823424049010181,0.4701140873015873,0.07023081367163385
+23,target_class_all_returns,260,KNN,roc_auc,0.49534702052703344,0.49776785714285715,0.018942475408025853
+24,target_class_all_returns,260,GNB,roc_auc,0.5619778170885655,0.5007440476190477,0.09744230295130894
+0,target_class_all_returns,260,LogReg,accuracy,,,
+1,target_class_all_returns,260,RandomForest,accuracy,0.9341880341880342,1.0,0.10783635732911835
+2,target_class_all_returns,260,SVC,accuracy,,,
+3,target_class_all_returns,260,KNN,accuracy,0.9341880341880342,1.0,0.10783635732911835
+4,target_class_all_returns,260,GNB,accuracy,0.9341880341880342,1.0,0.10783635732911835
+5,target_class_all_returns,260,LogReg,f1,,,
+6,target_class_all_returns,260,RandomForest,f1,0.0,0.0,0.0
+7,target_class_all_returns,260,SVC,f1,,,
+8,target_class_all_returns,260,KNN,f1,0.0,0.0,0.0
+9,target_class_all_returns,260,GNB,f1,0.037404330087256916,0.0,0.09128932898216419
+10,target_class_all_returns,260,LogReg,precision,,,
+11,target_class_all_returns,260,RandomForest,precision,0.0,0.0,0.0
+12,target_class_all_returns,260,SVC,precision,,,
+13,target_class_all_returns,260,KNN,precision,0.0,0.0,0.0
+14,target_class_all_returns,260,GNB,precision,0.1111111111111111,0.0,0.20786985482077452
+15,target_class_all_returns,260,LogReg,recall,,,
+16,target_class_all_returns,260,RandomForest,recall,0.0,0.0,0.0
+17,target_class_all_returns,260,SVC,recall,,,
+18,target_class_all_returns,260,KNN,recall,0.0,0.0,0.0
+19,target_class_all_returns,260,GNB,recall,0.025542784163473817,0.0,0.06451765486751004
+20,target_class_all_returns,260,LogReg,roc_auc,,,
+21,target_class_all_returns,260,RandomForest,roc_auc,,,
+22,target_class_all_returns,260,SVC,roc_auc,,,
+23,target_class_all_returns,260,KNN,roc_auc,,,
+24,target_class_all_returns,260,GNB,roc_auc,,,
+0,target_class_all_returns,260,LogReg,accuracy,,,
+1,target_class_all_returns,260,RandomForest,accuracy,0.9341880341880342,1.0,0.10783635732911835
+2,target_class_all_returns,260,SVC,accuracy,,,
+3,target_class_all_returns,260,KNN,accuracy,0.9341880341880342,1.0,0.10783635732911835
+4,target_class_all_returns,260,GNB,accuracy,0.9341880341880342,1.0,0.10783635732911835
+5,target_class_all_returns,260,LogReg,f1,,,
+6,target_class_all_returns,260,RandomForest,f1,0.0,0.0,0.0
+7,target_class_all_returns,260,SVC,f1,,,
+8,target_class_all_returns,260,KNN,f1,0.0,0.0,0.0
+9,target_class_all_returns,260,GNB,f1,0.037404330087256916,0.0,0.09128932898216419
+10,target_class_all_returns,260,LogReg,precision,,,
+11,target_class_all_returns,260,RandomForest,precision,0.0,0.0,0.0
+12,target_class_all_returns,260,SVC,precision,,,
+13,target_class_all_returns,260,KNN,precision,0.0,0.0,0.0
+14,target_class_all_returns,260,GNB,precision,0.1111111111111111,0.0,0.20786985482077452
+15,target_class_all_returns,260,LogReg,recall,,,
+16,target_class_all_returns,260,RandomForest,recall,0.0,0.0,0.0
+17,target_class_all_returns,260,SVC,recall,,,
+18,target_class_all_returns,260,KNN,recall,0.0,0.0,0.0
+19,target_class_all_returns,260,GNB,recall,0.025542784163473817,0.0,0.06451765486751004
+20,target_class_all_returns,260,LogReg,roc_auc,,,
+21,target_class_all_returns,260,RandomForest,roc_auc,,,
+22,target_class_all_returns,260,SVC,roc_auc,,,
+23,target_class_all_returns,260,KNN,roc_auc,,,
+24,target_class_all_returns,260,GNB,roc_auc,,,
+0, target_class_returns_all_attributes,260,LogReg,accuracy,0.5128205128205128,0.5,0.29847299299545677
+1, target_class_returns_all_attributes,260,RandomForest,accuracy,0.8064102564102563,0.8653846153846154,0.10016423069038263
+2, target_class_returns_all_attributes,260,SVC,accuracy,0.8064102564102563,0.8615384615384616,0.09762128113231527
+3, target_class_returns_all_attributes,260,KNN,accuracy,0.8064102564102563,0.8653846153846154,0.10016423069038263
+4, target_class_returns_all_attributes,260,GNB,accuracy,0.491025641025641,0.3346153846153846,0.28314473360975684
+5, target_class_returns_all_attributes,260,LogReg,f1,0.22546663462308736,0.2465753424657534,0.17610881400717365
+6, target_class_returns_all_attributes,260,RandomForest,f1,0.034188034188034185,0.0,0.048349181619593
+7, target_class_returns_all_attributes,260,SVC,f1,0.007575757575757575,0.0,0.010713739108887082
+8, target_class_returns_all_attributes,260,KNN,f1,0.0562711245089979,0.02247191011235955,0.06434669713853032
+9, target_class_returns_all_attributes,260,GNB,f1,0.24557834661242017,0.2352941176470588,0.20484152189078428
+10, target_class_returns_all_attributes,260,LogReg,precision,0.16271424349881797,0.140625,0.14273073544525264
+11, target_class_returns_all_attributes,260,RandomForest,precision,0.16666666666666666,0.0,0.23570226039551584
+12, target_class_returns_all_attributes,260,SVC,precision,0.3333333333333333,0.0,0.4714045207910317
+13, target_class_returns_all_attributes,260,KNN,precision,0.3666666666666667,0.5,0.26246692913372704
+14, target_class_returns_all_attributes,260,GNB,precision,0.15720056199508253,0.136986301369863,0.13735192306575997
+15, target_class_returns_all_attributes,260,LogReg,recall,0.5210727969348659,0.5632183908045977,0.40933457245630117
+16, target_class_returns_all_attributes,260,RandomForest,recall,0.018518518518518517,0.0,0.026189140043946204
+17, target_class_returns_all_attributes,260,SVC,recall,0.0038314176245210726,0.0,0.005418442767713008
+18, target_class_returns_all_attributes,260,KNN,recall,0.03160919540229885,0.011494252873563218,0.036874284587969645
+19, target_class_returns_all_attributes,260,GNB,recall,0.6111111111111112,0.8333333333333334,0.43744488188954506
+20, target_class_returns_all_attributes,260,LogReg,roc_auc,0.5658044747126245,0.5403025793650793,0.058808712711949714
+21, target_class_returns_all_attributes,260,RandomForest,roc_auc,0.5896737340936439,0.5908978174603174,0.009531137775405686
+22, target_class_returns_all_attributes,260,SVC,roc_auc,0.591023270998854,0.5843253968253967,0.04829148108549658
+23, target_class_returns_all_attributes,260,KNN,roc_auc,0.5305048940205034,0.5150768771458427,0.03178046157317387
+24, target_class_returns_all_attributes,260,GNB,roc_auc,0.5022306328396872,0.4947916666666667,0.014670257242552245

@@ -1,0 +1,76 @@
+,strategy,test_len,model,metric,mean,median,std
+0,target_class_lags_all_attributes,260,LogReg,accuracy,0.8435897435897436,0.9576923076923077,0.1723584327000392
+1,target_class_lags_all_attributes,260,RandomForest,accuracy,0.9179487179487179,0.9692307692307692,0.07525979549455986
+2,target_class_lags_all_attributes,260,SVC,accuracy,0.9179487179487179,0.9692307692307692,0.07525979549455986
+3,target_class_lags_all_attributes,260,KNN,accuracy,0.9179487179487179,0.9692307692307692,0.07525979549455986
+4,target_class_lags_all_attributes,260,GNB,accuracy,0.6910256410256411,0.7384615384615385,0.25190268724167914
+5,target_class_lags_all_attributes,260,LogReg,f1,0.07843137254901962,0.0,0.1109187107743604
+6,target_class_lags_all_attributes,260,RandomForest,f1,0.0,0.0,0.0
+7,target_class_lags_all_attributes,260,SVC,f1,0.0,0.0,0.0
+8,target_class_lags_all_attributes,260,KNN,f1,0.0,0.0,0.0
+9,target_class_lags_all_attributes,260,GNB,f1,0.1103641456582633,0.028571428571428574,0.13637516039142877
+10,target_class_lags_all_attributes,260,LogReg,precision,0.06130268199233716,0.0,0.08669508428340812
+11,target_class_lags_all_attributes,260,RandomForest,precision,0.3333333333333333,0.0,0.4714045207910317
+12,target_class_lags_all_attributes,260,SVC,precision,0.0,0.0,0.0
+13,target_class_lags_all_attributes,260,KNN,precision,0.0,0.0,0.0
+14,target_class_lags_all_attributes,260,GNB,precision,0.06886840757808499,0.016129032258064516,0.08624142881639499
+15,target_class_lags_all_attributes,260,LogReg,recall,0.10884353741496598,0.0,0.15392800678890828
+16,target_class_lags_all_attributes,260,RandomForest,recall,0.0,0.0,0.0
+17,target_class_lags_all_attributes,260,SVC,recall,0.0,0.0,0.0
+18,target_class_lags_all_attributes,260,KNN,recall,0.0,0.0,0.0
+19,target_class_lags_all_attributes,260,GNB,recall,0.28656462585034015,0.125,0.32095806545648997
+20,target_class_lags_all_attributes,260,LogReg,roc_auc,0.6251548630471094,0.5397040332720766,0.16249560050603817
+21,target_class_lags_all_attributes,260,RandomForest,roc_auc,0.5677767313192564,0.5230654761904762,0.10684694935275132
+22,target_class_lags_all_attributes,260,SVC,roc_auc,0.6307800928589616,0.6076388888888888,0.12093425593052377
+23,target_class_lags_all_attributes,260,KNN,roc_auc,0.4948061636450262,0.49830737982396744,0.006187039932565243
+24,target_class_lags_all_attributes,260,GNB,roc_auc,0.4697671953194127,0.5,0.046182435412133564
+0,target_class_all_returns,260,LogReg,accuracy,0.9192307692307692,0.9692307692307692,0.07621468691129153
+1,target_class_all_returns,260,RandomForest,accuracy,0.9179487179487179,0.9692307692307692,0.07525979549455986
+2,target_class_all_returns,260,SVC,accuracy,0.9192307692307692,0.9692307692307692,0.0734471055764231
+3,target_class_all_returns,260,KNN,accuracy,0.9179487179487179,0.9692307692307692,0.07525979549455986
+4,target_class_all_returns,260,GNB,accuracy,0.9102564102564102,0.9692307692307692,0.08889710678646008
+5,target_class_all_returns,260,LogReg,f1,0.08333333333333333,0.0,0.11785113019775792
+6,target_class_all_returns,260,RandomForest,f1,0.0,0.0,0.0
+7,target_class_all_returns,260,SVC,f1,0.01333333333333333,0.0,0.018856180831641266
+8,target_class_all_returns,260,KNN,f1,0.0,0.0,0.0
+9,target_class_all_returns,260,GNB,f1,0.21717171717171715,0.15151515151515152,0.20933718965719905
+10,target_class_all_returns,260,LogReg,precision,0.3333333333333333,0.0,0.4714045207910317
+11,target_class_all_returns,260,RandomForest,precision,0.0,0.0,0.0
+12,target_class_all_returns,260,SVC,precision,0.3333333333333333,0.0,0.4714045207910317
+13,target_class_all_returns,260,KNN,precision,0.0,0.0,0.0
+14,target_class_all_returns,260,GNB,precision,0.2980392156862745,0.29411764705882354,0.24496466959594376
+15,target_class_all_returns,260,LogReg,recall,0.047619047619047616,0.0,0.06734350297014738
+16,target_class_all_returns,260,RandomForest,recall,0.0,0.0,0.0
+17,target_class_all_returns,260,SVC,recall,0.006802721088435374,0.0,0.009620500424306767
+18,target_class_all_returns,260,KNN,recall,0.0,0.0,0.0
+19,target_class_all_returns,260,GNB,recall,0.1768707482993197,0.10204081632653061,0.18278950806182861
+20,target_class_all_returns,260,LogReg,roc_auc,0.6506165291204368,0.5737498790985588,0.1925641629770624
+21,target_class_all_returns,260,RandomForest,roc_auc,0.6310625322802069,0.6377792823290453,0.058898388719957506
+22,target_class_all_returns,260,SVC,roc_auc,0.4377354516186167,0.4359119141727837,0.026079107863294385
+23,target_class_all_returns,260,KNN,roc_auc,0.5002418028822904,0.5,0.0003419609155559393
+24,target_class_all_returns,260,GNB,roc_auc,0.6677930429696642,0.6230776670857916,0.10042365877302595
+0, target_class_returns_all_attributes,260,LogReg,accuracy,0.8371794871794872,0.9615384615384616,0.18963094369339795
+1, target_class_returns_all_attributes,260,RandomForest,accuracy,0.9179487179487179,0.9692307692307692,0.07525979549455986
+2, target_class_returns_all_attributes,260,SVC,accuracy,0.9192307692307692,0.9692307692307692,0.07621468691129153
+3, target_class_returns_all_attributes,260,KNN,accuracy,0.9179487179487179,0.9692307692307692,0.07525979549455986
+4, target_class_returns_all_attributes,260,GNB,accuracy,0.7051282051282052,0.7807692307692308,0.255324624814799
+5, target_class_returns_all_attributes,260,LogReg,f1,0.24519456165025785,0.2911392405063291,0.18432923657733258
+6, target_class_returns_all_attributes,260,RandomForest,f1,0.0,0.0,0.0
+7, target_class_returns_all_attributes,260,SVC,f1,0.08333333333333333,0.0,0.11785113019775792
+8, target_class_returns_all_attributes,260,KNN,f1,0.0,0.0,0.0
+9, target_class_returns_all_attributes,260,GNB,f1,0.11213977116270236,0.03389830508474576,0.1353293153554634
+10, target_class_returns_all_attributes,260,LogReg,precision,0.4036697247706422,0.21100917431192662,0.4303785665181229
+11, target_class_returns_all_attributes,260,RandomForest,precision,0.0,0.0,0.0
+12, target_class_returns_all_attributes,260,SVC,precision,0.3333333333333333,0.0,0.4714045207910317
+13, target_class_returns_all_attributes,260,KNN,precision,0.0,0.0,0.0
+14, target_class_returns_all_attributes,260,GNB,precision,0.07002801120448178,0.0196078431372549,0.08554507504049567
+15, target_class_returns_all_attributes,260,LogReg,recall,0.25170068027210885,0.2857142857142857,0.19313019818474
+16, target_class_returns_all_attributes,260,RandomForest,recall,0.0,0.0,0.0
+17, target_class_returns_all_attributes,260,SVC,recall,0.047619047619047616,0.0,0.06734350297014738
+18, target_class_returns_all_attributes,260,KNN,recall,0.0,0.0,0.0
+19, target_class_returns_all_attributes,260,GNB,recall,0.28656462585034015,0.125,0.32095806545648997
+20, target_class_returns_all_attributes,260,LogReg,roc_auc,0.6243207917742816,0.566399071476932,0.16828479239868113
+21, target_class_returns_all_attributes,260,RandomForest,roc_auc,0.6046692914881039,0.47267627430118964,0.19921729636490368
+22, target_class_returns_all_attributes,260,SVC,roc_auc,0.6414025207343405,0.5837121578489216,0.18526930670695757
+23, target_class_returns_all_attributes,260,KNN,roc_auc,0.5212302204994502,0.5041590095753942,0.03457923133093713
+24, target_class_returns_all_attributes,260,GNB,roc_auc,0.4473808381962579,0.5,0.07911098003811352

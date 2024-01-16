@@ -1,0 +1,18 @@
+,strategy,test_len,model,explained variance,MAE,MedianAE,MSE,R2,RMSE
+0,target_return_1d_all_returns,260,Lasso,0.0,0.0164,0.0146,0.0214,-0.001,0.0214
+1,target_return_1d_all_returns,260,LR,-0.0025,0.0163,0.0149,0.0215,-0.0036,0.0215
+2,target_return_1d_all_returns,260,RandomForest,-0.0029,0.0164,0.0144,0.0215,-0.0032,0.0215
+3,target_return_1d_all_returns,260,Ridge,-0.0024,0.0163,0.0149,0.0215,-0.0035,0.0215
+4,target_return_1d_all_returns,260,SVR,-135.4517,0.1948,0.1567,0.2502,-135.4959,0.2502
+5,target_return_1d_all_returns,260,XGB,-0.0426,0.0168,0.0145,0.0219,-0.0432,0.0219
+0,target_return_1d_all_attributes,260,Lasso,0.0,0.0164,0.0146,0.0214,-0.001,0.0214
+1,target_return_1d_all_attributes,260,LR,-0.005,0.0164,0.0143,0.0215,-0.0084,0.0215
+2,target_return_1d_all_attributes,260,RandomForest,-0.0105,0.0164,0.0145,0.0215,-0.0109,0.0215
+3,target_return_1d_all_attributes,260,Ridge,-0.002,0.0164,0.0142,0.0215,-0.006,0.0215
+4,target_return_1d_all_attributes,260,SVR,-0.0,0.0245,0.0222,0.0298,-0.9336,0.0298
+5,target_return_1d_all_attributes,260,XGB,-0.0688,0.0169,0.0142,0.0222,-0.0695,0.0222
+0,target_close_all_lags,260,Lasso,0.9835,1.8548,1.632,2.4485,0.9834,2.4485
+1,target_close_all_lags,260,LR,0.9834,1.8631,1.5764,2.453,0.9833,2.453
+2,target_close_all_lags,260,RandomForest,0.9778,2.2318,1.897,2.865,0.9772,2.865
+3,target_close_all_lags,260,Ridge,0.9834,1.8631,1.5764,2.453,0.9833,2.453
+4,target_close_all_lags,260,XGB,0.9778,2.2723,1.9228,2.8429,0.9776,2.8429

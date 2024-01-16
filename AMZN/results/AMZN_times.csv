@@ -1,0 +1,13 @@
+,strategy,model,time
+0,STRATEGY,LR,0.0
+1,STRATEGY,Lasso,0.0
+2,STRATEGY,Ridge,0.0
+3,STRATEGY,RandomForest,2.7333333333333334
+4,STRATEGY,XGB,0.8
+5,STRATEGY,SVR,0.0
+0,target_return_1d_all_attributes,LR,0.03333333333333333
+1,target_return_1d_all_attributes,Lasso,0.0
+2,target_return_1d_all_attributes,Ridge,0.0
+3,target_return_1d_all_attributes,RandomForest,4.816666666666666
+4,target_return_1d_all_attributes,XGB,1.6166666666666667
+5,target_return_1d_all_attributes,SVR,52.15
